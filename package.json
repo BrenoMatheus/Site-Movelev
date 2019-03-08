@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoMatheus/Site-Movelev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoMatheus/Site-Movelev/issues"
+  },
+  "homepage": "https://github.com/BrenoMatheus/Site-Movelev#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
