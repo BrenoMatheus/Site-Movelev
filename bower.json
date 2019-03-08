@@ -1,0 +1,20 @@
+{
+  "name": "Movelev",
+  "homepage": "https://github.com/BrenoMatheus/Site-Movelev",
+  "authors": [
+    "BrenoMatheus <breno.moliver@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
