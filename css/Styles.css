@@ -1,0 +1,348 @@
+@charset "utf-8";
+/* CSS Document */
+.Logo{
+	background: url("../images/Logo.jpg");
+	width: 152px;
+	height: 148px;
+}
+//Slide Topo
+.SlideIn
+{
+	background: url("../images/SlideIn.jpg");
+	width: 1800px;
+	height: 1145px;
+	
+}
+.SlidePro{
+	background: url("../images/Slide.jpg");
+	width: 1800px;
+	height: 1200px;
+	
+}
+.SlideRep
+{
+	background: url("../images/SlideRep.jpg");
+	width: 1800px;
+	height: 524px;
+}
+.SlideCon
+{
+	background: url("../images/SlideCon.jpg");
+	width: 1800px;
+	height: 1200px;
+	
+}
+//MenuTopo
+.MenuTop
+{
+	width: 533px;
+	height: 16px;
+	font-family: CopperplateGothic;
+	color: #000000;
+	font-size: 15px;
+	font-weight: 700;
+	
+}
+
+
+.Fundo{
+	width: 1800px;
+	height: 1200px;
+	background-image: -webkit-linear-gradient(90deg, #000000 0%, #ffffff 57%);
+	background-image: -moz-linear-gradient(90deg, #000000 0%, #ffffff 57%);
+	background-image: -o-linear-gradient(90deg, #000000 0%, #ffffff 57%);
+	background-image: linear-gradient(0deg, #000000 0%, #ffffff 57%);
+}
+//Menus
+.MenuPrincpal{
+	width: 86px;
+	height: 29px;
+	font-family: Impact;
+	color: #ffffff;
+	font-size: 39.12px;
+	font-weight: 400;
+	transform: scale(0.919,0.775);
+	width: 162px;
+	height: 25px;
+	font-family: Impact;
+	color: #ffffff;
+	font-size: 39.12px;
+	font-weight: 400;
+	transform: scale(1.004,0.78);
+	width: 148px;
+	height: 29px;
+	font-family: Impact;
+	color: #ffffff;
+	font-size: 39.12px;
+	font-weight: 400;
+	transform: scaleY(0.778);
+	width: 244px;
+	height: 36px;
+	font-family: Impact;
+	color: #ffffff;
+	font-size: 39.12px;
+	font-weight: 400;
+	transform: scaleY(0.782);
+	width: 132px;
+	height: 25px;
+	font-family: Impact;
+	color: #ffffff;
+	font-size: 39.12px;
+	font-weight: 400;
+	transform: scaleY(0.782);	
+	width: 1800px;
+	height: 62px;
+	background-image: -webkit-linear-gradient(90deg, #ff0000 0%, #ffa55d 100%);
+	background-image: -moz-linear-gradient(90deg, #ff0000 0%, #ffa55d 100%);
+	background-image: -o-linear-gradient(90deg, #ff0000 0%, #ffa55d 100%);
+	background-image: linear-gradient(0deg, #ff0000 0%, #ffa55d 100%);
+	
+}
+.MenuProduto
+{
+	width: 382px;
+	height: 758px;
+	background-color: #e6e6e6;
+	width: 399px;
+	height: 58px;
+	border-width: 3px;
+	border-color: #ffffff;
+	border-style: solid;
+	width: 239px;
+	height: 28px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 30px;
+	font-weight: 900;
+	transform: scaleX(1.033);
+    width: 270px;
+	height: 454px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 24px;
+	font-weight: 900;
+}
+.MenuServ
+{
+	background: url("../images/MenuServ.jpg");
+	width: 382px;
+	height: 758px;
+	background: url("../images/RetMenuServ.jpg");
+	width: 399px;
+	height: 58px;
+	border-width: 3px;
+	border-color: #ffffff;
+	border-style: solid;
+	width: 147px;
+	height: 29px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 30px;
+	font-weight: 900;
+	transform: scaleX(1.033);
+	background: url("../images/LogmovMenu.jpg");
+	width: 120px;
+	height: 104px;
+}
+.MenuServTxt
+{
+	width: 264px;
+	height: 133px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 24px;
+	font-weight: 900;
+	
+}
+.ImagensMiolo{
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;	
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;
+	background: url("../images/Ret⮧ulo_7.jpg");
+	width: 185px;
+	height: 132px;	
+	
+	
+}
+//Miolo do site
+.MioloIn
+{
+	
+	width: 1516px;
+	height: 641px;
+	background-color: #000000;
+	background: url("../images/FachadaMov.jpg");
+	width: 848px;
+	height: 459px;
+	background: url("../images/Eticas_da_empresa.jpg");
+	width: 284px;
+	height: 181px;
+	background: url("../images/Miss㯀.jpg");
+	width: 284px;
+	height: 181px;
+	background: url("../images/Pontos_de_atua磯.jpg");
+	width: 284px;
+	height: 181px;
+	width: 164px;
+	height: 135px;
+	background: url("../images/logo_Miolo.jpg");
+	width: 164px;
+	height: 135px;
+	background: url("../images/Representantes_Logo.jpg");
+	width: 268px;
+	height: 73px;
+	background: url("../images/Fundo_miolo.jpg");
+	width: 1535px;
+	height: 822px;
+	background-color: #ffffff;
+	
+	
+}
+.MiolotxtIn
+{
+	width: 590px;
+	height: 245px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 66.6px;
+	font-weight: 400;
+	transform: scale(0.415,0.45);
+}
+.LogRepMiolo
+{
+	width: 1535px;
+	height: 822px;
+	background-color: #ffffff;
+	background: url("../images/Representantes_Logo.jpg");
+	width: 260px;
+	height: 64px;
+	
+}
+.MioloLogR
+{
+	background: url("../images/LogMovMio.jpg");
+	width: 134px;
+	height: 102px;
+}
+.MioloLogR
+{
+	background: url("../images/stilllog.jpg");
+	width: 170px;
+	height: 64px;
+	background: url("../images/Kionlog.jpg");
+	width: 120px;
+	height: 56px;
+	background: url("../images/linde_logo.jpg");
+	width: 120px;
+	height: 56px;
+}
+.MioloTitR
+{
+width: 258px;
+	height: 28px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 30px;
+	font-weight: 900;
+}
+.MioloTxtR
+{
+    width: 1036px;
+	height: 193px;
+	color: #000000;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: FontAwesome5Free;	
+}
+.MioloTxtS
+{
+width: 867px;
+	height: 137px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 23.99px;
+	font-weight: 400;
+	transform: scale(1.144,1);	
+}
+.MioloTitS
+{
+	width: 137px;
+	height: 27px;
+	font-family: Arial;
+	color: #000000;
+	font-size: 30.4px;
+	font-weight: 900;
+	transform: scaleY(0.987);
+	
+}
+.MioloCCamp
+{
+	width: 296px;
+	height: 30px;
+	border-width: 3px;
+	border-color: #000000;
+	border-style: solid;
+	background-color: #000000;
+	width: 63px;
+	height: 15px;
+	color: #666666;
+	font-size: 26.47px;
+	font-weight: 400;
+	font-family: FontAwesome5Free;
+	transform: scale(0.751,0.642);
+	
+}
+.MioloCCMsg
+{
+	width: 139px;
+	height: 15px;
+	color: #666666;
+	font-size: 23.52px;
+	font-weight: 400;
+	font-family: FontAwesome5Brands;
+	transform: scaleY(0.723);
+	width: 624px;
+	height: 188px;
+	border-width: 3px;
+	border-color: #000000;
+	border-style: solid;
+	background-color: #000000;
+}
+
+.BtnEnviar
+{
+	background: url("../images/ENVIAR_CONTATO.jpg");
+	width: 220px;
+	height: 39px;
+}
+
